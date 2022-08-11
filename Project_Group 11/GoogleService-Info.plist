@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>397193649583-0htc2j7hbemacmof9rp7jg3q1hiul0c3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.397193649583-0htc2j7hbemacmof9rp7jg3q1hiul0c3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb20Ax1LFY1mKSvCn9yY19f_JajBogGvI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397193649583</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.Project-Group-11</string>
+	<key>PROJECT_ID</key>
+	<string>household-problem-solver</string>
+	<key>STORAGE_BUCKET</key>
+	<string>household-problem-solver.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397193649583:ios:736745634a385ae839a35a</string>
+</dict>
+</plist>
